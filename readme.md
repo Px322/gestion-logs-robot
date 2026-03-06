@@ -12,6 +12,10 @@ J'ai créé ce projet pour apprendre à écrire dans des fichiers externes
 depuis Python et pour comprendre comment les systèmes embarqués 
 trackent les actions en temps réel
 
+## Images
+
+![alt text](image.png)
+
 ## Fonctionnement
 - On initialise un objet `Robot`
 - On lui donne des instructions de déplacement (gauche, droite, haut, bas)
